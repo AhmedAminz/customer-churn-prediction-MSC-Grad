@@ -31,3 +31,8 @@ pip install -r requirements.txt
 
 ## Usage
 Open `Final.ipynb` and run all cells sequentially. Dataset must be in the `data/` folder.
+
+
+## App Link
+
+https://customer-churn-prediction-msc-grad-2hchzdkrpcugri87ksrcc5.streamlit.app/
